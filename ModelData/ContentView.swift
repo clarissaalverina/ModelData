@@ -35,7 +35,8 @@ struct ContentView: View {
         ProductModel(id: 2, namaProduk: "Kucing 2", fotoProduk: "GettyImages-1140917170-727bc42801da47c4ace4eb34940d2120", hargaProduk: 4000000, lokasi: "Jakarta", ratingCount: 4, jumlahRating: 1),
         ProductModel(id: 3, namaProduk: "Kucing 3", fotoProduk: "image-53920-800", hargaProduk: 2500000, lokasi: "Bandung", ratingCount: 3, jumlahRating: 1),
         ProductModel(id: 4, namaProduk: "Kucing 4", fotoProduk: "beautiful-smooth-haired-red-cat-lies-on-the-sofa-royalty-free-image-1678488026", hargaProduk: 3000000, lokasi: "Bogor", ratingCount: 5, jumlahRating: 1),
-        ProductModel(id: 5, namaProduk: "Kucing 5,", fotoProduk: "environmental-enrichment-for-cats", hargaProduk: 5000000, lokasi: "Bogor", ratingCount: 4, jumlahRating: 1)
+        ProductModel(id: 5, namaProduk: "Kucing 5,", fotoProduk: "environmental-enrichment-for-cats", hargaProduk: 5000000, lokasi: "Bogor", ratingCount: 4, jumlahRating: 1),
+        ProductModel(id: 6, namaProduk: "Kucing 6,", fotoProduk: "environmental-enrichment-for-cats", hargaProduk: 7000000, lokasi: "Bogor", ratingCount: 5, jumlahRating: 2)
     ]
     
     
